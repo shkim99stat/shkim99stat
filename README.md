@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in Spatiotemporal data and extreme value data modeling. 
+I'm interested in Spatiotemporal data and extreme value data modeling.  
 My areas of interest include Bayesian inference and Anomaly detection.
 
 <!--
