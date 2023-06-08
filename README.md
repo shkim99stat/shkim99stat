@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm interested in Spatiotemporal data and extreme value data modeling.  
-My areas of interest include Bayesian inference and Anomaly detection.
+My areas of interest include Bayesian inference, Anomaly detection, and Mixture model.
 
 <!--
 **shkim99stat/shkim99stat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
