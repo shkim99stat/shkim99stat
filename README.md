@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### 🛠Skills
+#### Languages & Framework
+
+<img src="https://img.shields.io/badge/SAS-0089CF?style=flat&logoColor=red"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
+
