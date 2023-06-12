@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/SAS-0089CF?style=flat&logoColor=red"/> <img src="https://img.shields.io/badge/R-75AADB?style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
 
+
+ I hope to learn   
+ 
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
