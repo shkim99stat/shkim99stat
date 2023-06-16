@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 #### 🛠Skills
 #### Available Languages 
 
-<img src="https://img.shields.io/badge/SAS-0089CF?style=flat&logoColor=red"/> <img src="https://img.shields.io/badge/R-75AADB?style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/SAS-0089CF?style=flat&logoColor=red"/> <img src="https://img.shields.io/badge/R-75AADB?style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
 
  I hope to learn   
  
- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
 
 
 
