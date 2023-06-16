@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=shkim99stat)
+
 
 I'm interested in Spatio-temporal data and Extreme value data modeling.  
 My areas of interest include Bayesian inference, Anomaly detection, Statistical computing, and Nonparametric model.
@@ -34,3 +34,9 @@ Here are some ideas to get you started:
  I hope to learn   
  
  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"/>
+
+
+
+
+
+ ![](https://komarev.com/ghpvc/?username=shkim99stat)
