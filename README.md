@@ -5,7 +5,7 @@ I'm interested in Spatio-temporal data and Extreme value data modeling.
 My areas of interest include Bayesian inference, Anomaly detection, Statistical computing, and Nonparametric model.
 
 
-working at LSK Global PS(CRO) as Statistical Programmer(SAS Programmer) (2023.02 - 2023.07)
+worked at LSK Global PS(CRO) as Statistical Programmer(SAS Programmer) (2023.02 - 2023.07)
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>   i99ksh@gmail.com
 
