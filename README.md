@@ -6,6 +6,8 @@ My areas of interest include Bayesian inference, Anomaly detection, Statistical 
 
 
 worked at LSK Global PS(CRO) as Statistical Programmer(SAS Programmer) (2023.02 - 2023.07)
+
+
 Currently, working at ADATA as Data Analyst (2023.08)
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>   i99ksh@gmail.com
