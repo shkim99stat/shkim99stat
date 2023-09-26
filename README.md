@@ -2,7 +2,7 @@
 
 
 I'm interested in Spatio-temporal data modeling.  
-My areas of interest include Bayesian inference, Anomaly detection, Statistical computing, and Nonparametric model.
+My areas of interest include Bayesian inference, Statistical computing, and Nonparametric model.
 
 
 worked at LSK Global PS as Statistical Programmer(SAS Programmer) (2023.02 - 2023.07)  
