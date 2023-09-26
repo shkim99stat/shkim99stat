@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm interested in Spatio-temporal data and Extreme value data modeling.  
+I'm interested in Spatio-temporal data modeling.  
 My areas of interest include Bayesian inference, Anomaly detection, Statistical computing, and Nonparametric model.
 
 
